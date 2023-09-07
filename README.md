@@ -91,6 +91,8 @@ If you want to add a new language, follow these steps, after you set up your loc
    // ...
    ```
 6. Create a pull request to this repository and help us with adding new languages and improving the existing ones! :)
+7. 翻译中存在key大小写与页面不一致导致对应翻译失效
+8. 只针对简体中文翻译进行一定的修正
    
 ## License
 
